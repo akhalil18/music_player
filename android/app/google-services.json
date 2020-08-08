@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "308819135792",
+    "firebase_url": "https://music-player-4030c.firebaseio.com",
+    "project_id": "music-player-4030c",
+    "storage_bucket": "music-player-4030c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308819135792:android:7d190136d2b79f87f90cf5",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308819135792-5sua2685lr8lr8t312b8q5ols3pot6u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUJFCzrr34zd-u4yz4bDgghe1K-7Yr38Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308819135792-5sua2685lr8lr8t312b8q5ols3pot6u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
